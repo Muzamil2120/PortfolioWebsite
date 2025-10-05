@@ -362,6 +362,19 @@ height: 370px;
     .footer .portfolio span {
       color: #a259ff;
     }
+/* Responsive Design */
+
+@media screen and 
+(min-width: 767px)
+
+                         
+@media screen and 
+(Min-width :768px) and (max_width :1023px)
+
+                      
+
+@media screen and 
+(min-width : 1024px)
 
     @media (max-width: 576px) {
       .footer .copyright {
@@ -380,4 +393,5 @@ height: 370px;
             50% {
                 transform: translateY(-10px);
             }
+
         }
